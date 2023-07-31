@@ -1,0 +1,27 @@
+# Ignore CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+cmake-build-debug/
+Makefile
+
+# Ignore compiled and linked objects
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.dll
+*.dylib
+
+# Ignore IDE project files
+.idea/
+.vs/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore other generated files
+*.log
+*.swp
+*.swo
+

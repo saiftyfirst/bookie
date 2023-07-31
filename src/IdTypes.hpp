@@ -1,0 +1,4 @@
+struct Price
+{
+    float value;
+};
